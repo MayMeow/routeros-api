@@ -25,15 +25,15 @@
         },
         {
             "name": "Jeremy Jefferson",
-            "url": "http://jeremyj.com"
+            "homepage": "http://jeremyj.com"
         },
         {
             "name": "Cristian Deluxe",
-            "url": "djcristiandeluxe@gmail.com"
+            "email": "djcristiandeluxe@gmail.com"
         },
         {
             "name": "Mikhail Moskalev",
-            "url": "mmv.rus@gmail.com"
+            "email": "mmv.rus@gmail.com"
         }
     ],
     "autoload": {
